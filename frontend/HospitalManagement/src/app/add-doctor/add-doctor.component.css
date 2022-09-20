@@ -1,0 +1,62 @@
+.navbar{
+    background-color: rgb(191, 4, 248);
+}
+
+.nav-item img{
+    height: 70px;
+    margin-left: 50px;
+}
+
+h2{
+    margin-left: 215px;
+    margin-top: 30px;
+    color: white;
+}
+
+
+.contain{
+    margin-top: 60px;
+    margin-right: 200px;
+    text-align: left;
+}
+
+.offset-md-3{
+    height: 500px;
+    width: 700px;
+    margin-right: 100px;
+}
+
+.inside-header{
+    text-align: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 35px;
+    word-spacing: 15px;
+    letter-spacing: 2px;
+}
+
+.form-group{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+label{
+    font-size: 20px;
+}
+
+input{
+   
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.containment{
+    margin-top: 10px;
+}
+
+button{
+    margin-left: 280px;
+    margin-top: 30px;
+}
